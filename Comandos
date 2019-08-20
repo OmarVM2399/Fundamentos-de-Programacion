@@ -1,0 +1,10 @@
+ls -enlistar archivos
+cd -moverse entre directorios
+mkdir -crear un directorio
+touch -crear un archivo
+echo -poner texto al archivo
+cat -mostrar texto del archivo
+rm -borrar un archivo
+rm -d -borrar un directorio
+cp -copiar archivos
+clear -limpiar pantalla
