@@ -8,3 +8,5 @@ rm -borrar un archivo
 rm -d -borrar un directorio
 cp -copiar archivos
 clear -limpiar pantalla
+cp -copiar un archivo
+rm -limpiar un directorio
