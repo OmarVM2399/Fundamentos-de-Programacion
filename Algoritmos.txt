@@ -1,0 +1,28 @@
+Problema 1: Dado un precio calcular su descuento considerando que si el precio es mayor de 100 el descuento sera del 10% de otro modo solo descontar el 2%
+  *Datos de entrada: Leer precio
+  *Proceso: Comparar si precio es < 100
+            Si es mayor, entonces descuento=precio - (preciox0.1)
+            Si es menor, entonces descuento=precio - (preciox0.02)
+  *Datos de salida: Imprimir descuento.
+  
+Problema 2: Pedir 2 numeros calcule su suma, resta, multiplicacion y division.
+  *Datos de entrada: Leer numero1 y numero2
+  *Proceso: Hacer las siguientes operaciones
+            suma= numero1 + numero2
+            resta= numero1 - numero2
+            multiplicacion= numero1 x numero 2
+            division= numero1 / numero 2
+  *Datos de salida: Imprimir suma, resta, multiplicacion y division.
+  
+Problema 3: Leer 3 numeros que van a denotar una fecha (dd/mm/aa) y verificar si es una fecha valida.
+  *Datos de entrada: Leer num1, num2 y num3
+  *Proceso: Comparar si num1 ≤31 
+            Si es ≤31, entonces comparar si num1≤28
+            Si es mayor, entonces fecha= fecha no valida 
+            
+            Comparar si num2 ≤12
+             Si es mayor, entonces fecha= fecha no valida
+            
+         Si todos las comparaciones son afirmativas, entonces fecha= fecha valida (num1, num2,num3)
+         Si alguna comparacion es negativa, entonces fecha= fecha no valida
+  *Datos de salida: Imprimir fecha
